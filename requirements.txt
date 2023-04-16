@@ -1,0 +1,15 @@
+torch==1.10.0+cu111
+torchvision==0.11.0+cu111
+matplotlib
+tqdm==4.64
+numpy==1.21.5
+Pillow==9.0.1
+pytorch-lightning==1.6.3
+matplotlib==3.5.1
+torchmetrics==0.11.0
+scipy
+wandb
+seaborn
+
+# package location
+--find-links https://download.pytorch.org/whl/torch_stable.html
